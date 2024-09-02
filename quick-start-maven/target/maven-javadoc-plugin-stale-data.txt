@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/minec/maven-ws/quick-start-maven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/minec/maven-ws/quick-start-maven/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'quick-start-maven 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'quick-start-maven 1.0-SNAPSHOT API'
+one.digitalinnovation
+C:\Users\minec\maven-ws\quick-start-maven\src\main\java = 1724885454664
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\allclasses-index.html = 1725299893288
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\allpackages-index.html = 1725299893296
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\element-list = 1725299893191
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\help-doc.html = 1725299893337
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\index-all.html = 1725299893329
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\index.html = 1725299893329
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\jquery-ui.overrides.css = 1725299893403
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\member-search-index.js = 1725299893305
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\module-search-index.js = 1725299893296
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\overview-tree.html = 1725299893256
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\package-search-index.js = 1725299893305
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\script.js = 1725299893353
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\search.js = 1725299893361
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\stylesheet.css = 1725299893353
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\tag-search-index.js = 1725299893312
+C:\Users\minec\maven-ws\quick-start-maven\target\reports\apidocs\type-search-index.js = 1725299893305
